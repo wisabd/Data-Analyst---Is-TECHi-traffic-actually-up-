@@ -28,7 +28,7 @@ Requirements:
 Files:
 - company_gazetteer.json : contains the list of company names
 - techi_articles.csv : contains the scraped articles
-- gazetteer.py : contains the code to scrape the articles
+- gazetteer.py : contains the code to extract and compare names in titles with US Nasdaq
 - README.md
 
 
